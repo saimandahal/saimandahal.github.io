@@ -1,17 +1,25 @@
-/*
-
-Tooplate 2115 Marvel
-
-https://www.tooplate.com/view/2115-marvel
-
-*/
-
 
 @import url("https://fonts.googleapis.com/css?family=Maven+Pro:400,700");
 body {
   font-family: "Maven Pro", sans-serif;
   padding-top: 70px;
 }
+
+
+/* @media (max-width: 432px) {
+.navbar>.container{
+  display: grid;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -ms-flex-align: center;
+  align-items: center;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+
+} */
 
 .full-screen {
   padding: 8rem 0;
